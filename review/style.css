@@ -1,0 +1,47 @@
+.header {
+  display: flex;
+  background-color: wheat;
+}
+.nav {
+  display: flex;
+  margin: auto;
+  float: right;
+  background-color: aqua;
+}
+li {
+  list-style-type: none;
+  margin: 0 30px;
+}
+
+.brand-logo {
+  margin: 10px;
+  height: 40px;
+  width: 40px;
+}
+
+.container {
+  padding: 20px;
+  background-color: blueviolet;
+  display: flex;
+  justify-content: center;
+}
+.content {
+  padding: 50px;
+  background-color: blue;
+  display: flex;
+}
+
+.img-profil {
+  margin-right: 50px;
+  float: left;
+}
+
+.img-profil .neymar {
+  width: 400px;
+  height: 400px;
+}
+
+.data-profil {
+  text-align: justify;
+  float: right;
+}
